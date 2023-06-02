@@ -1,8 +1,4 @@
 public class Task2 {
-    public static void main(String[] args) {
-        int m = Integer.MAX_VALUE + 1;
-    }
-
     public static int sum2d(String[][] arr) {
         int sum = 0;
         for (int i = 0; i < arr.length; i++) {
